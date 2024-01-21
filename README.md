@@ -62,7 +62,7 @@ During testing, we discovered that when one of the motors reaches a value under 
 </details>
 <details>
   <summary>Motor mount</summary>
-  <img src="images/mottor-mount.jpg" width="70%" height="50%">
+  <img src="images/motor-mount.jpg" width="70%" height="50%">
 </details>
 <details>
   <summary>Full setup</summary>
