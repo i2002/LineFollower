@@ -1,6 +1,5 @@
 # 🏎️LineFollower🏎️
-
-<img src="https://github.com/i2002/LineFollower/main/doc/images/final-project_front-view" width="60%" height="80%">
+![Front view](images/final-project_front-view.jpg)
 
 ## 🧩About🧩
 This Arduino project was developed during a one-day hackathon at the Faculty of Mathematics and Computer Science, University of Bucharest for the "Introduction to Robotics" 3rd-year course, 1st semester. It focused on the assembly and programming of a line-follower robot.
@@ -55,21 +54,21 @@ During testing, we discovered that when one of the motors reaches a value under 
 ## 📷Setup photo📷
 <details>
   <summary>Main body</summary>
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/main-body.jpg" width="70%" height="50%">
+  <img src="images/main-body.jpg" width="70%" height="50%">
 </details>
 <details>
   <summary>Battery compartment</summary>
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/battery-compartment.jpg" width="70%" height="50%">
+  <img src="images/battery-compartment.jpg" width="70%" height="50%">
 </details>
 <details>
   <summary>Motor mount</summary>
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/mottor-mount.jpg" width="70%" height="50%">
+  <img src="images/mottor-mount.jpg" width="70%" height="50%">
 </details>
 <details>
   <summary>Full setup</summary>
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/final-project_top-view" width="60%" height="80%">
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/final-project_side-view" width="60%" height="80%">
-  <img src="https://github.com/i2002/LineFollower/main/doc/images/final-project_front-view" width="60%" height="80%">
+  <img src="images/final-project_top-view.jpg" width="60%" height="80%">
+  <img src="images/final-project_side-view.jpg" width="60%" height="80%">
+  <img src="images/final-project_front-view.jpg" width="60%" height="80%">
 </details>
 
 ## 🎥Video🎥
